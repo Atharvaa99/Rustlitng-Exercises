@@ -11,12 +11,12 @@ This repository documents my progress through Rustlings v6.5.0, containing my so
 ###  Completed
 - [x] **00_intro** - Introduction to Rustlings
 - [x] **01_variables** - Variable declarations and mutability 
+- [x] **02_functions** - Function definitions and calls
 
 ###  In Progress
-- [ ] **02_functions** - Function definitions and calls
+- [ ] **03_if** - Conditional statements and control flow
 
 ### Upcoming Topics
-- [ ] **03_if** - Conditional statements and control flow
 - [ ] **04_primitive_types** - Basic data types (integers, booleans, etc.)
 - [ ] **05_vecs** - Vectors (dynamic arrays)
 - [ ] **06_move_semantics** - Ownership and borrowing
