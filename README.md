@@ -13,7 +13,7 @@ This repository documents my progress through Rustlings v6.5.0, containing my so
 - [x] **01_variables** - Variable declarations and mutability 
 - [x] **02_functions** - Function definitions and calls
 - [x] **03_if** - Conditional statements and control flow
-- [x]**04_primitive_types** - Basic data types (integers, booleans, etc.)
+- [x] **04_primitive_types** - Basic data types (integers, booleans, etc.)
 
 ###  In Progress
 
