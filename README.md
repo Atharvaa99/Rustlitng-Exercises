@@ -14,14 +14,14 @@ This repository documents my progress through Rustlings v6.5.0, containing my so
 - [x] **02_functions** - Function definitions and calls
 - [x] **03_if** - Conditional statements and control flow
 - [x] **04_primitive_types** - Basic data types (integers, booleans, etc.)
+- [x] **05_vecs** - Vectors (dynamic arrays)
+- [x] **06_move_semantics** - Ownership and borrowing
 
 ###  In Progress
 
-- [ ] **05_vecs** - Vectors (dynamic arrays)
+- [ ] **07_structs** - Struct definitions and usage
 
 ### Upcoming Topics
-- [ ] **06_move_semantics** - Ownership and borrowing
-- [ ] **07_structs** - Struct definitions and usage
 - [ ] **08_enums** - Enumerations and pattern matching
 - [ ] **09_strings** - String types and manipulation
 - [ ] **10_modules** - Code organization and modules
