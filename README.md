@@ -16,13 +16,14 @@ This repository documents my progress through Rustlings v6.5.0, containing my so
 - [x] **04_primitive_types** - Basic data types (integers, booleans, etc.)
 - [x] **05_vecs** - Vectors (dynamic arrays)
 - [x] **06_move_semantics** - Ownership and borrowing
+- [x] **07_structs** - Struct definitions and usage
 
 ###  In Progress
 
-- [ ] **07_structs** - Struct definitions and usage
+- [ ] **08_enums** - Enumerations and pattern matching
 
 ### Upcoming Topics
-- [ ] **08_enums** - Enumerations and pattern matching
+
 - [ ] **09_strings** - String types and manipulation
 - [ ] **10_modules** - Code organization and modules
 - [ ] **11_hashmaps** - Hash maps (key-value collections)
