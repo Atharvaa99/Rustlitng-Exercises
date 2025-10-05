@@ -18,14 +18,14 @@ This repository documents my progress through Rustlings v6.5.0, containing my so
 - [x] **06_move_semantics** - Ownership and borrowing
 - [x] **07_structs** - Struct definitions and usage
 - [x] **08_enums** - Enumerations and pattern matching
+- [x] **09_strings** - String types and manipulation
 
 ###  In Progress
 
-- [ ] **09_strings** - String types and manipulation
+- [ ] **10_modules** - Code organization and modules
 
 ### Upcoming Topics
 
-- [ ] **10_modules** - Code organization and modules
 - [ ] **11_hashmaps** - Hash maps (key-value collections)
 - [ ] **12_options** - Option type for handling null values
 - [ ] **13_error_handling** - Result type and error management
